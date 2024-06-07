@@ -23,9 +23,9 @@ header {
     background-color: lightcoral;
 }
 
-#logo {
+h1 {
     font-family: oswald;
-}
+    }
 
 /* Main Content */
 main {
